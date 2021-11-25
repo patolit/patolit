@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ariel Litvin @patolit
 - 👀 I’m interested in Fullstack development, taking ideas to their realization. My current stack is JavaScript, Typescript, React, Node, Nest, PostgreSQL. 
 - 🌱 I’m currently learning more CSS, does it ever ends?
-- 💞️ I’m looking to collaborate on cool solutions for day to day problems.
+- 💞️ I’m looking to collaborate on cool solutions to solve day to day problems.
 - 📫 How to reach me mail me at litvinz@gmail.com
